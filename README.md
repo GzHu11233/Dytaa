@@ -4,7 +4,7 @@
 Web Bucin V3 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://wafarifki.github.io/WebBucin-V3/">https://wafarifki.github.io/WebBucin-V3/</a>
+ <a href="[https://wafarifki.github.io/WebBucin-V3](https://gzhu11233.github.io/Dytaa/)/">[https://wafarifki.github.io/WebBucin-V3](https://gzhu11233.github.io/Dytaa/)/</a>
 
 # Let's connect with me!
 <p>
